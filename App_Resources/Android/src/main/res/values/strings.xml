@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestForeground</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_value_radio_notification" translatable="false">Radio</string>
+    <string name="title_activity_kimera">Hello Pankaj</string>
+
+</resources>

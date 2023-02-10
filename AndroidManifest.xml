@@ -43,7 +43,5 @@
 			</intent-filter>
 		</activity>
 		<activity android:name="com.tns.ErrorReportActivity"/>
-		<service android:name="com.tns.TestObject"></service>
-		<service android:name="com.tns.exampleapp.service.SoundService"></service>
 	</application>
 </manifest>

@@ -1,5 +1,5 @@
 {
-  "name": "example-app",
+  "name": "com.tns.exampleapp",
   "main": "./src/main.ts",
   "version": "1.0.0",
   "private": true,
@@ -21,6 +21,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "~15.1.0",
     "@angular/compiler-cli": "~15.1.0",
+    "@nativescript/android": "8.4.0",
     "@nativescript/types": "~8.4.0",
     "@nativescript/webpack": "~5.0.12",
     "@ngtools/webpack": "~15.1.0",
